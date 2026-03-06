@@ -1,0 +1,3 @@
+¡Hola, mundo!
+Estoy aprendiendo Python.
+Guardar en archivos sirve para no perder información.
